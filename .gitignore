@@ -1,0 +1,8 @@
+*ipynb_checkpoints*
+*venv*
+*__pycache__*
+*gz2*
+train/
+validation/
+test/
+*.parquet
